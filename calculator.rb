@@ -1,2 +1,1 @@
-
-def calculator (first_number, Second_number)
+first_number=2
